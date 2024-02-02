@@ -12,6 +12,8 @@ I am an Assistant Professor at the Department of Mathematics and Informatics, Fa
 
 University of Novi Sad is also my alma mater, where I completed my BSc in Electrical and Computer Engineering. In the meantime, I did my PhD in Computer and Communication Sciences at EPFL, Switzerland, under the guidance of Professor Paolo Ienne and I spent some time at Xilinx (now AMD), working on FPGA architecture and CAD under Chirag Ravishankar and Dinesh Gaitonde.
 
+You can see my detailed CV [[here]](http://stefannikolicns.github.io/files/snikolic_cv.pdf).
+
 Research
 ======
 My research interests primarily lie in reconfigurable computing and electronic design automation, with a particular emphasis on FPGA architecture and design of CAD algorithms required to efficiently map user circuits on such new FPGAs. Besides being fascinated by reconfigurable computing, I am also very interested in various CAD problems in general. 
