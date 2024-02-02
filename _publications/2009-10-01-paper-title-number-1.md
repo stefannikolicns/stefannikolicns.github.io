@@ -8,8 +8,6 @@ excerpt: 'This paper proposes a new routing algorithm for AMD FPGAs, which turns
 date: 2023-11-02
 venue: "ICCAD'23"
 doi: "10.1109/ICCAD57390.2023.10323897"
-paperurl: 'http://stefannikolicns.github.io/files/Shrivastava_et_al___IIBLAST_Speeding_Up_Commercial_FPGA_Routing_by_Decoupling_and_Mitigating_the_Intra_CLB_Bottleneck___2023.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
