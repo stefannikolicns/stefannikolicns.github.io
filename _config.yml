@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "Stefan Nikolić"
   avatar           : "profile.png"
-  bio              : > PhD (CS), EPFL (2023)
-                       BSc (ECE), University of Novi Sad (2017)
+  bio              : "PhD (CS), EPFL (2023)\n\n BSc (ECE), University of Novi Sad (2017)"
   location         : "Novi Sad, Serbia"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=jECK7fYAAAAJ"
