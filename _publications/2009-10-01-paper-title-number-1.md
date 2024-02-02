@@ -7,6 +7,8 @@ excerpt: 'This paper proposes a new routing algorithm for AMD FPGAs, which turns
 
 date: 2023-11-02
 venue: "ICCAD'23"
+
+---
 doi: "10.1109/ICCAD57390.2023.10323897"
 abstract: "We identified that in modern commercial FPGAs, routing
 signals from the general interconnect to the configurable logic blocks
@@ -32,6 +34,5 @@ our multi-stage routing approach and the proposed enhancements, we
 show that the observed bottleneck can be mitigated, resulting in 4.94×
 faster routing on average.
 Index Terms—CLB, congestion, FPGA, IIB, routing"
----
 
 [Author's local PDF copy of paper](http://stefannikolicns.github.io/files/Shrivastava_et_al___IIBLAST_Speeding_Up_Commercial_FPGA_Routing_by_Decoupling_and_Mitigating_the_Intra_CLB_Bottleneck___2023.pdf)
