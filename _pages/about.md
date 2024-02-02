@@ -23,10 +23,10 @@ To se posebno odnosi na studente i kolege iz Srbije i ostalih zemalja gde se lak
 Awards and Honors
 =======
 
-[Patrick Denantes Memorial Prize](https://actu.epfl.ch/news/patrick-denantes-memorial-prize-2023-announced/) for an outstanding doctoral thesis, awarded by the IC School, EPFL (2023)
+* [Patrick Denantes Memorial Prize](https://actu.epfl.ch/news/patrick-denantes-memorial-prize-2023-announced/) for an outstanding doctoral thesis, awarded by the IC School, EPFL (2023)
 
-Michal Servit Best Paper Award at [FPL 2021](https://cfaed.tu-dresden.de/fpl2021/welcome-to-fpl2021)
+* Michal Servit Best Paper Award at [FPL 2021](https://cfaed.tu-dresden.de/fpl2021/welcome-to-fpl2021)
 
-Michal Servit Best Paper Award at [FPL 2020](http://news.tcfpga.org/2020/09/fpl-2020-best-paper-award-winners-announced/)
+* Michal Servit Best Paper Award at [FPL 2020](http://news.tcfpga.org/2020/09/fpl-2020-best-paper-award-winners-announced/)
 
-EPFL EDIC Doctoral Fellowship (2017)
+* EPFL EDIC Doctoral Fellowship (2017)
