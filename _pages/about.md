@@ -20,7 +20,8 @@ If you find any of the problems that I have worked on interesting and you would 
 
 To se posebno odnosi na studente i kolege iz Srbije i ostalih zemalja gde se lako razumemo :).
 
-== Awards and Honors ==
+Awards and Honors
+=======
 
 [Patrick Denantes Memorial Prize](https://actu.epfl.ch/news/patrick-denantes-memorial-prize-2023-announced/) for an outstanding doctoral thesis, awarded by the IC School, EPFL (2023)
 
