@@ -25,6 +25,7 @@ To se posebno odnosi na studente i kolege iz Srbije i ostalih zemalja gde se lak
 Awards and Honors
 =======
 
+* [EDAA Outstanding Dissertation Award](https://www.edaa.com/edaa-outstanding-dissertation-award/) for an outstanding doctoral thesis, awarded by the European Design and Automation Association, EDAA (2023)
 * [Patrick Denantes Memorial Prize](https://actu.epfl.ch/news/patrick-denantes-memorial-prize-2023-announced/) for an outstanding doctoral thesis, awarded by the IC School, EPFL (2023)
 
 * Michal Servit Best Paper Award at [FPL 2021](https://cfaed.tu-dresden.de/fpl2021/welcome-to-fpl2021)
