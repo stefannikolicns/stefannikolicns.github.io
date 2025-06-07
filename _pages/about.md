@@ -28,7 +28,7 @@ Awards and Honors
 * Best Paper Award at [FCCM 2025](https://www.fccm.org/fccm-2025-best-paper-award/)
 
 * [EDAA Outstanding Dissertation Award](https://www.edaa.com/edaa-outstanding-dissertation-award/) for an outstanding doctoral thesis, awarded by the European Design and Automation Association, EDAA (2024)
-* [Patrick Denantes Memorial Prize](https://actu.epfl.ch/news/patrick-denantes-memorial-prize-2023-announced/) for an outstanding doctoral thesis, awarded by the IC School, EPFL (2023)
+* [Patrick Denantes Memorial Prize](https://actu.epfl.ch/news/patrick-denantes-memorial-prize-2023-announced/) for an outstanding doctoral thesis, awarded by the School of Computer and Communication Sciences of EPFL (2023)
 
 * Michal Servit Best Paper Award at [FPL 2021](https://cfaed.tu-dresden.de/fpl2021/welcome-to-fpl2021)
 
