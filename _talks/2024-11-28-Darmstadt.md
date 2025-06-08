@@ -1,7 +1,7 @@
 ---
 title: "Securing a Bright Future for FPGAs"
 collection: talks
-type: "Talk"
+type: "CROSSING Research Seminar Talk"
 permalink: /talks/2024-11-28-Darmstadt
 venue: "Technische Universität Darmstadt"
 date: 2024-11-28
