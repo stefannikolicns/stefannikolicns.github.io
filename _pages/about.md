@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Stefan Nikolić"
-excerpt: "About me"
+title: "About"
+#excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
