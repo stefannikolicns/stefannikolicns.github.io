@@ -9,7 +9,7 @@ excerpt: ''
 date: 2024-06-20
 venue: "US Patent Application No. US20240202423A1 (Published, pending approval)"
 paperurl: 'http://stefannikolicns.github.io/files/Gaitonde_et_al___Runtime_efficient_multi_stage_router_flow_for_circuit_designs___2024.pdf'
-citation: 'Dinesh Gaitonde, Chirag Ravishankar, and Stefan Nikolić. &quot;Runtime efficient multi-stage router flow for circuit designs&quot;, 2024. (patent application no. US 20240202423 A1; published, pending acceptance)' 
+citation: 'Dinesh Gaitonde, Chirag Ravishankar, and Stefan Nikolić. &quot;Runtime efficient multi-stage router flow for circuit designs&quot;, 2024. (patent application no. US 20240202423 A1; published, pending approval)' 
 ---
 
 **Abstract:**
