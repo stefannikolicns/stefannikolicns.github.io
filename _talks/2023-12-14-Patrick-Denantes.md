@@ -2,7 +2,7 @@
 title: "Automating the Design of Programmable Interconnect for Reconfigurable Architectures"
 collection: talks
 type: "Patrick Denantes Award Ceremony Talk"
-permalink: /talks/2024-11-28-Darmstadt
+permalink: /talks/2023-12-14-Patrick-Denantes
 venue: "École Polytechnique Fédérale de Lausanne"
 date: 2023-12-14
 location: "Lausanne, Switzerland"
