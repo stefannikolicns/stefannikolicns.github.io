@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 I am an Assistant Professor at the Department of Mathematics and Informatics, Faculty of Sciences, University of Novi Sad. 
+This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 University of Novi Sad is also my alma mater, where I completed my BSc in Electrical and Computer Engineering. In the meantime, I did my PhD in Computer and Communication Sciences at EPFL, Switzerland, under the guidance of Professor Paolo Ienne and I spent some time at Xilinx (now AMD), working on FPGA architecture and CAD under Chirag Ravishankar and Dinesh Gaitonde.
 
