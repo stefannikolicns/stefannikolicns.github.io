@@ -11,7 +11,7 @@ redirect_from:
 I am an Assistant Professor at the Department of Mathematics and Informatics, Faculty of Sciences, University of Novi Sad. 
 University of Novi Sad is also my alma mater, where I completed my BSc in Electrical and Computer Engineering. In the meantime, I did my PhD in Computer and Communication Sciences at EPFL, Switzerland, under the guidance of Professor Paolo Ienne and I spent some time at Xilinx (now AMD), working on FPGA architecture and CAD under Chirag Ravishankar and Dinesh Gaitonde.
 
-You can see my detailed CV [[here]](http://stefannikolicns.github.io/files/snikolic_cv.pdf).
+<!--You can see my detailed CV [[here]](http://stefannikolicns.github.io/files/snikolic_cv.pdf).-->
 
 Research
 ======
