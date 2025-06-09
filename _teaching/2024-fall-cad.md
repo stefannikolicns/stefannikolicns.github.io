@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-fall-cad
 venue: "University of Novi Sad"
-date: 2014-01-01
+date: 2024-11-01
 location: "Novi Sad, Serbia"
 ---
 
